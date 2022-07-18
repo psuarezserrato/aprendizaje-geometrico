@@ -2,8 +2,7 @@
 
 Repositorio para los materiales de curso _Aprendizaje Geométrico Profundo_ 2023-1, impartido por el Dr. Pablo Suárez Serrato en el Posgrado de Matemáticas UNAM
 
-El horario del curso es Martes y Jueves de 16:00 a 18:15 hrs, por Skype.
-<Es en la tarde por si alguien está trabajando y pueda ajustarse.>
+El curso tendrá lugar Martes y Jueves de 16:00 a 18:15 hrs, por Skype.
 
 El horario es fijo, no se va a mover.
 
