@@ -1,12 +1,12 @@
 ### Curso de Aprendizaje Geométrico 
 
-Repositorio para los materiales de curso _Aprendizaje Geométrico Profundo_ 2023-1, impartido por el Dr. Pablo Suárez Serrato en el Posgrado de Matemáticas UNAM
+Repositorio para los materiales de curso _Aprendizaje Geométrico Profundo_ 2023-1, impartido por el [Dr. Pablo Suárez Serrato](https://sites.google.com/im.unam.mx/pablo/home) dentro del Posgrado de Matemáticas UNAM.
 
 El curso tendrá lugar Martes y Jueves de 16:00 a 18:15 hrs, por Skype.
 
-El horario es fijo, no se va a mover.
+El horario es fijo, no se va a mover. Comenzamos el Jueves 11 de Agosto.
 
-Las sesiones no serán grabadas, para poder tener un espacio cómodo para hacer preguntas y comentarios. 
+Las sesiones no serán grabadas. Serán espacios oportunos para resolver dudas, hacer preguntas y expresar comentarios. 
 
 Veremos materiales de los siguientes textos:
 
