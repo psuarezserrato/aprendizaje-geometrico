@@ -15,7 +15,7 @@ Veremos materiales de los siguientes textos:
 
 + **[Computational Optimal Transport: With Applications to Data Science](https://www.nowpublishers.com/article/Details/MAL-073)**, _Peyré_, _Cuturi_, [notas libres](https://arxiv.org/abs/1803.00567).
 
-+ **[Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478)**, _Bronstein, Bruna, Cohen, Veličković_, [notas libres](https://arxiv.org/abs/2104.13478), [videos](https://www.youtube.com/watch?v=PtA0lg_e5nA&list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3).
++ **[Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://arxiv.org/abs/2104.13478)**, _Bronstein, Bruna, Cohen, Veličković_, [notas libres](https://arxiv.org/abs/2104.13478), [videos](https://www.youtube.com/watch?v=PtA0lg_e5nA&list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3), [curso 2022](https://geometricdeeplearning.com/lectures/).
 
 
 
